@@ -1,0 +1,10 @@
+# Ignore compiled and temp files
+VisitorDesignPattern/out/
+VisitorDesignPattern/classes/
+VisitorDesignPattern/src/.DS_Store
+
+# Original provided starter code (not part of submission)
+VisitorDesignPattern/src/Main.java
+VisitorDesignPattern/src/VehicleService.java
+VisitorDesignPattern/src/VehicleInspection.java
+VisitorDesignPattern/src/IVehicleInspector.java
